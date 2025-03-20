@@ -23,4 +23,4 @@ Source code for Partisia Blockchain itself is hosted on [Partisia Blockchain's G
 
 This GitHub organization handles auxiliary projects, such as:
 
-- [Codespaces setup for DApp Development](https://github.com/partisiablockchain/dapp-playground)
+- [Codespaces setup for DApp Development on PBC](https://github.com/partisiablockchain/dapp-playground)
